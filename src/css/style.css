@@ -23,6 +23,7 @@
     margin: 10px;
     display: flex;
     align-items: center;
+    text-align: center;
     
 }
 
@@ -30,7 +31,7 @@
     text-decoration: none; 
     color: black;
     padding: 5px 15px;
-    
+    width: 90px;
 }
 a:hover{
     background-color: #00FA9A	;
